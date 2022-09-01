@@ -22,9 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Notes:
 
 The calculator shows all the buttons but only supports the basic sub/add/div/mult operations plus the "=" and "AC" buttons.
-It can only happen one operation at a time, but chains the result of one operation as the first input for the next operation.
+It can only handle one operation at a time, but chains the result of one operation as the first input for the next operation.
 
-It is statically styled, the instructions didn't specify if styling it in a responsive was was neccesarry.
+It is statically styled, the instructions didn't specify if styling it in a responsive way was neccesarry.
 
 ### Possible improvements:
 
